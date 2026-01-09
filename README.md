@@ -16,10 +16,10 @@ I build real-world systems that solve business and community problems. Currently
 - **Frontend:** Tailwind CSS, Alpine.js, Blade Templates
 - **Tools:** Git/GitHub, REST APIs, Ngrok
 
-## 📊 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bunggula&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bunggula&layout=compact&theme=tokyonight&hide_border=true)
+## 📊 Status & Achievements
+- 🎓 **Education:** Incoming Graduate, BS in Information Technology
+- 🛠️ **Current Focus:** Maintaining business systems for local clients
+- ⚡ **Fun Fact:** I use AI-driven workflows to speed up system development
 
 ---
 
