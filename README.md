@@ -17,8 +17,9 @@ I build real-world systems that solve business and community problems. Currently
 - **Tools:** Git/GitHub, REST APIs, Ngrok
 
 ## 📊 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bunggula&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bunggula&layout=compact&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bunggula&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bunggula&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
